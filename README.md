@@ -1,4 +1,4 @@
-# 🎮 Game Phaser 🎮 (Preferred Browser - Chrome)🎮
+# 🎮 Game Phaser 🎮 (preferred browser - Chrome)🎮
 
 - [Deployed version: Play here](https://game-night-000.netlify.app/)
 
