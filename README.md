@@ -1,6 +1,6 @@
 # 🎮 Game Phaser 🎮
 
-- [Deployed version: Play here](https://objective-payne-6a6ac3.netlify.app/)
+- [Deployed version: Play here](https://game-night-000.netlify.app/)
 
 ### 🎮 Preferred Browser - Chrome🎮
 
@@ -69,7 +69,7 @@ by default).
 
 ## 🎮 How to get started?
 
-- [🎮 To Play, click here 🎮](https://objective-payne-6a6ac3.netlify.app/)
+- [🎮 To Play, click here 🎮](https://game-night-000.netlify.app/)
   <br/>
 
 ---
