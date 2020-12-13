@@ -19,7 +19,7 @@ The idea is this: When you collect all the stars the first time it will release 
 ## 🎮 How to contribute to this Project?
 
 ```shell
-git clone https://github.com/mcherry000/pixelated.git
+git clone https://github.com/mcherry000/game-night.git
 npm install
 npm start
 ```
