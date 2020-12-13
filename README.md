@@ -1,10 +1,8 @@
-# 🎮 Game Phaser 🎮
+# 🎮 Game Phaser 🎮 (Preferred Browser - Chrome)🎮
 
 - [Deployed version: Play here](https://game-night-000.netlify.app/)
 
-### 🎮 Preferred Browser - Chrome🎮
-
-  <br/>
+---
   Game Night is a 2D game built to provide a creative playground for users to play, relax and unwind.
 
 ---
